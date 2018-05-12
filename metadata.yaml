@@ -1,0 +1,40 @@
+_repo: Dal-vero_19887
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Serao, Matilde
+    aliases:
+    - Scarfoglia, Matilde Serao
+    - Serao-Scarfoglia, Matilde
+    birthdate: 1856
+    deathdate: 1927
+    gutenberg_agent_id: '7688'
+    url: http://www.gutenberg.org/2009/agents/7688
+    wikipedia: http://en.wikipedia.org/wiki/Matilde_Serao
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2006-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19887'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction'
+- !lcsh 'Short stories, Italian'
+- !lcc 'PQ'
+tableOfContents: Fanciullo biondo -- La canzone popolare -- Pseudonimo -- Casa nuova
+  -- Votazione femminile -- Il trionfo di Lulù -- Il Cristo di Saverio Altamura --
+  In provincia -- Nel bosco -- Nuova caccia -- Acacia -- Un intervento -- Frutta --
+  La notte di S. Lorenzo -- Villeggiatura -- Tristia -- Lettera aperta al signor Vesuvio
+  -- Vita nostra -- Dualismo -- La storia di Mario -- Alla decima Musa -- Estratto
+  dello Stato civile -- Per le fanciulle -- Apparenze -- Giornata -- La moglie di
+  un grand'uomo -- Trilogia -- Domenica -- Notte di agosto -- Mosaico -- Idilio di
+  Pulcinella -- Palco borghese -- Silvia -- Commiato.
+title: Dal vero
+url: http://www.gutenberg.org/ebooks/19887
